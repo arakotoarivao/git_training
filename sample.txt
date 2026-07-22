@@ -3,3 +3,4 @@ Bonjour,
 this is a dummy text file for git training. this is version V0
 
 I add line for branch ticket-1
+this is a dummy text file for git training. this is version V1
